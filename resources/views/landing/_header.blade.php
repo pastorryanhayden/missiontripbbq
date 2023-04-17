@@ -7,7 +7,7 @@
         <a href="#food" class="text-xl hover:underline">Our Food</a>
         <a href="#about"class="text-xl hover:underline">About Us</a>
         <a href="#donate"class="text-xl hover:underline">Donate</a>
-        <a href="/order" class="text-xl hover:underline bg-blaze text-eggshell font-bold px-4 py-2 rounded-sm">Order BBQ</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzuX_hiryf9PxLBWP-6V8NXWVhOm4UePoGhwdQi8WSSBWlWw/viewform?usp=sf_link" target="blank" class="text-xl hover:underline bg-blaze text-eggshell font-bold px-4 py-2 rounded-sm">Order BBQ</a>
     </div>
     </div>
     </header>
