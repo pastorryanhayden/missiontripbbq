@@ -6,7 +6,7 @@
          <a href="#howitworks" class="text-xl hover:underline">How It Works</a>
         <a href="#food" class="text-xl hover:underline">Our Food</a>
         <a href="#about"class="text-xl hover:underline">About Us</a>
-        <a href="#donate"class="text-xl hover:underline">Donate</a>
+        <button class="tithely-give-btn text-xl hover:underline" data-church-id="247580" data-giving-to="Missions Trip" data-action="Donate">Donate</button>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzuX_hiryf9PxLBWP-6V8NXWVhOm4UePoGhwdQi8WSSBWlWw/viewform?usp=sf_link" target="blank" class="text-xl hover:underline bg-blaze text-eggshell font-bold px-4 py-2 rounded-sm">Order BBQ</a>
     </div>
     </div>
