@@ -1,7 +1,7 @@
 <section class="hero w-full h-[30vh] lg:h-[50vh] flex justify-center items-center bg-cover " style="background-image: url('/bg.jpg');">
 
 <div class="text bg-midnight p-6 rounded" >
-<h1 class="text-xl lg:text-4xl  text-eggshell text-center leading-loose font-display uppercase">We get you amazing BBQ <span class="block"> You get us to the mission field.</span></h1>
+<h1 class="text-xl lg:text-4xl  text-eggshell text-center leading-loose font-display uppercase">We get your family amazing BBQ <span class="block"> You get our family to the mission field.</span></h1>
     
 </div>
 

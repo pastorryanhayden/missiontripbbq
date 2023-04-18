@@ -1,6 +1,6 @@
 <section class="howitworks w-full py-12 px-6 max-w-5xl mx-auto" id="howitworks">
         <h2 class="text-midnight text-2xl font-display text-center my-10">How It Works</h2>
-        <div class="flex flex-col items-center space-y-6 lg:flex-row lg:justify-center lg:space-x-6 lg:item-start lg:space-y-0">
+        <div class="flex grid lg:grid-cols-5 gap-6">
            <x-how-item title="We Schedule A Cook" description="We decide when we are going to cook next and prepare for that delivery.">
             <x-slot:svg>
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-10 h-10 mb-4">

@@ -1,5 +1,5 @@
-<section class="w-full max-w-5xl mx-auto p-6" id="about">
-        <h2 class="font-display text-2xl">About Us</h2>
+<section class="w-full max-w-5xl mx-auto py-12 px-6" id="about">
+        <h2 class="font-display text-3xl text-center">About Us</h2>
         <img src="/haydens.jpeg" alt="The Hayden Family" class="w-full max-w-lg h-auto mx-auto my-6">
         <p class="text-lg mt-6">As the pastor of a local church, my kids have had the unique opportunity to make friends with missionaries coming through our church every year who go on to live in places like South Africa, the Philipines and Germany.  Since they could talk, they have been asking to go visit these friends and it's always been my goal to take them on multiple trips.  But, it's expensive.</p>
         <p class="text-lg mt-6">So I started Mission Trip BBQ as a way to pay for our trips to see our missionary friends and help in their mission works.  I cook the meat and the girls help me divide and deliver it.</p>
