@@ -14,11 +14,11 @@
 <div class="h-6 absolute top-0 left-0 z-10 bg-midnight" style="width: {{ env('RAISED_PERCENTAGE') }}%;">
 </div>
 </div>
+</div>
 <h2 class="font-display text-2xl mt-12">What's with the Rhino?</h2>
         <p class="text-lg mt-6">We have a rhino in our logo for four reasons:</p>
         <p class="text-lg mt-6">First, because Rhinos are awesome.</p>
         <p class="text-lg mt-6">Second, because Ryan's nickname was Rhino growing up.</p>
         <p class="text-lg mt-6">Third, because we are going to visit a place called Camp Rhino in South Africa.</p>
         <p class="text-lg mt-6">Fourth, because in the BBQ word, everyone uses pigs.  We cook pigs, but wanted to advertise with Rhinos.</p>
-</div>
 </section>
