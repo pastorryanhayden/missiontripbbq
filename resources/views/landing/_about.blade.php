@@ -20,5 +20,5 @@
         <p class="text-lg mt-6">First, because Rhinos are awesome.</p>
         <p class="text-lg mt-6">Second, because Ryan's nickname was Rhino growing up.</p>
         <p class="text-lg mt-6">Third, because we are going to visit a place called Camp Rhino in South Africa.</p>
-        <p class="text-lg mt-6">Fourth, because in the BBQ word, everyone uses pigs.  We cook pigs, but wanted to advertise with Rhinos.</p>
+        <p class="text-lg mt-6">Fourth, because in the BBQ world, everyone uses pigs.  We cook pigs, but wanted to advertise with Rhinos.</p>
 </section>
