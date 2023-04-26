@@ -6,6 +6,7 @@
 </div>
 
 </section>
-<section id="next-cook" class="bg-blaze flex items-center justify-center w-full h-48 p-6">
-<h2 class="font-display text-xl lg:text-3xl text-midnight text-center">Next Pickup Date: <span class="underline">{{ env('COOK_DATE') }}</span></h2>
+<section id="next-cook" class="bg-blaze flex flex-col items-center justify-center w-full h-48 p-6">
+<h2 class="font-display text-xl lg:text-3xl text-midnight text-center">Next Pickup Date: <span class="text-white">{{ env('COOK_DATE') }}</span></h2>
+<h2 class="font-display text-xl lg:text-3xl text-midnight text-center mt-4">Spots Left: <span class="text-white">{{ env('AVAILABLE') }}</span></h2>
 </section>
