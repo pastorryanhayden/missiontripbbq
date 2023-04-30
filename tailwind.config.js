@@ -17,7 +17,7 @@ module.exports = {
             },
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
-                display: ['Alfa Slab One', 'cursive'],
+                display: ['Alfa Slab One', ...defaultTheme.fontFamily.sans],
             },
         },
     },
